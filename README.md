@@ -1,2 +1,1 @@
-# LinkdinApp
 # LinkdinAppClone
